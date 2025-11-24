@@ -1,8 +1,0 @@
-#EXTM3U billed-msg="M3U PLAYLIST BY: ZAGREUS"
-
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
-
-**********Free to Air**********
-
-#EXTINF:-1 tvg-logo="" group-title="Free to Air",GTV
-http://127.0.0.1:63000/live/me_channel?me_url=turbo://live.0vcmc02vl8agx9z8jqsx/fb730a35adfb05aa7100533e6198e98195bf
