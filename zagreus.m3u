@@ -20,6 +20,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.mpd
 
+#EXTINF:-1 tvg-id="1250" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128953472.png" group-title="Free to Air",JEEPNEY TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1250/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Free to Air", TV5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -27,23 +33,23 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Free to Air", GMA 7
-http://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:-1 tvg-id="1143" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="Free to Air",GTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1143/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Free to Air", GTV
-http://vod.nathcreqtives.com/stream/convergenceinc/gtv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="Free to Air",GMA 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1093/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2L3JzLv.png" group-title="Free to Air", Heart Of Asia
-http://vod.nathcreqtives.com/stream/convergenceinc/heartofasia/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fDhBrB4.png" group-title="Free to Air", iHeart Movies
-http://vod.nathcreqtives.com/stream/convergenceinc/ihm/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
-
-#EXTINF:-1 group-title="Free to Air" tvg-id="" tvg-logo="https://i.imgur.com/ZOqMJfw.png",GMA Pinoy TV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
+#EXTINF:-1 tvg-id="1152" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1733707474289.png" group-title="Free to Air",HALLYPOP
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1152/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="Free to Air", RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -73,19 +79,18 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
 
+#EXTINF:-1 tvg-id="1109" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125129835.png" group-title="Free to Air",ALIW TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1109/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ec/Sari-Sari_Channel_2D_Logo_2016.png/revision/latest?cb=20190317023940" group-title="Free to Air", SARI-SARI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/TV_MARIA_PH.png/revision/latest?cb=20200421061144" group-title="Free to Air",TV Maria
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.mpd
 
 #EXTINF:-1 group-title="Free to Air" tvg-id="" tvg-logo="https://i.imgur.com/ZOqMJfw.png",GMA Pinoy TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -125,6 +130,30 @@ https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/in
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
+#EXTINF:-1 tvg-id="1283" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125628005.png" group-title="Free to Air",CINEMA ONE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1283/manifest.mpd
+
+#EXTINF:-1 tvg-id="1078" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723612823404.png" group-title="Free to Air",PBO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1078/manifest.mpd
+
+#EXTINF:-1 tvg-id="1091" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134409636.png" group-title="Free to Air",UNTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1091/manifest.mpd
+
+#EXTINF:-1 tvg-id="1179" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723136602348.png" group-title="Free to Air",ALL TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1179/manifest.mpd
+
 **********LOCAL & INTL.NEWS**********
 
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg"
@@ -135,6 +164,12 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+
+#EXTINF:-1 tvg-id="1174" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126004028.png" group-title="LOCAL & INTL.NEWS",DZRH
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1174/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" group-title="LOCAL & INTL.NEWS", Bilyonaryo Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -157,7 +192,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.
 #KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvup_prd/default/index.mpd
 
-#EXTINF:-1 group-title="LOCAL & INTL.NEWS" tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png", ANC
+#EXTINF:-1 group-title="LOCAL & INTL.NEWS" tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png", ANC HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -197,6 +232,12 @@ https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nhk_japan.mpd
+
+#EXTINF:-1 tvg-id="1343" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125103446.png" group-title="LOCAL & INTL.NEWS",AL JAZEERA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1343/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="LOCAL & INTL.NEWS", CNN International
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -311,6 +352,60 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc112xzr75)/master.mpd
+
+#EXTINF:-1 tvg-id="1234" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1735903243498.png" group-title="LOCAL & INTL.NEWS",GNN tv44
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1234/manifest.mpd
+
+#EXTINF:-1 tvg-id="1166" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723606286242.png" group-title="LOCAL & INTL.NEWS",DEUTSCHE WELLE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1166/manifest.mpd
+
+#EXTINF:-1 tvg-id="1112" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134391817.png" group-title="LOCAL & INTL.NEWS",TVE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1112/manifest.mpd
+
+#EXTINF:-1 tvg-id="1214" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129897469.png" group-title="LOCAL & INTL.NEWS",NHK BS1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1214/manifest.mpd
+
+#EXTINF:-1 tvg-id="1156" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134373931.png" group-title="LOCAL & INTL.NEWS",TV5MONDE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1156/manifest.mpd
+
+#EXTINF:-1 tvg-id="1199" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134428182.png" group-title="LOCAL & INTL.NEWS",USA TODAY NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1199/manifest.mpd
+
+#EXTINF:-1 tvg-id="1157" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126239977.png" group-title="LOCAL & INTL.NEWS",FRANCE 24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1157/manifest.mpd
+
+#EXTINF:-1 tvg-id="1176" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723612444093.png" group-title="LOCAL & INTL.NEWS",SAUDI TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1176/manifest.mpd
+
+#EXTINF:-1 tvg-id="1123" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1730362635883.png" group-title="LOCAL & INTL.NEWS",MINDANOW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1123/manifest.mpd
 
 **********Educational & Documentary**********
 
@@ -950,12 +1045,11 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="GENERAL ENTERTAINMENT",Warner TV 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+#EXTINF:-1 tvg-id="1096" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134500990.png" group-title="GENERAL ENTERTAINMENT",WARNER TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1096/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0c1_logo_ent_red_web.png" group-title="GENERAL ENTERTAINMENT",Rock Entertainment
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -971,6 +1065,12 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockentertainment/defau
 #KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
 
+#EXTINF:-1 tvg-id="1202" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219661968.png" group-title="GENERAL ENTERTAINMENT",STAR CHANNEL 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1202/manifest.mpd
+
 #EXTINF:-1 group-title="GENERAL ENTERTAINMENT" tvg-id="" tvg-logo="https://i.imgur.com/Qvj8mf4.png",Lifetime
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -978,6 +1078,12 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
+
+#EXTINF:-1 tvg-id="1267" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129722508.png" group-title="GENERAL ENTERTAINMENT",METRO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1267/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vucZeKB.png" group-title="GENERAL ENTERTAINMENT", Food Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1083,6 +1189,56 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 #KODIPROP:inputstream.adaptive.license_key={"0020a49a0d48d25362f30057e72f0b4a":"86abf8c2a6f693a958c6492bef11ee81"}
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf)/master.mpd
 
+#EXTINF:-1 tvg-id="1150" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134099364.png" group-title="GENERAL ENTERTAINMENT",TAP EDGE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1150/manifest.mpd
+
+#EXTINF:-1 tvg-id="1337" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723124083530.png" group-title="GENERAL ENTERTAINMENT",XINGKONG
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1337/manifest.mpd
+
+**********RELIGION CHANNEL**********
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/TV_MARIA_PH.png/revision/latest?cb=20200421061144" group-title="RELIGION CHANNEL",TV Maria
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.mpd
+
+#EXTINF:-1 tvg-id="1104" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126078814.png" group-title="RELIGION CHANNEL",EWTN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1104/manifest.mpd
+
+#EXTINF:-1 tvg-id="1327" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133809689.png" group-title="RELIGION CHANNEL",RADIO MARIA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1327/manifest.mpd
+
+#EXTINF:-1 tvg-id="1175" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131279043.png" group-title="RELIGION CHANNEL",ORAS NG HIMALA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1175/manifest.mpd
+
+#EXTINF:-1 tvg-id="1103" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129682729.png" group-title="RELIGION CHANNEL",Light TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1103/manifest.mpd
+
+#EXTINF:-1 tvg-id="1155" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133929628.png" group-title="RELIGION CHANNEL",SMNI
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1155/manifest.mpd
 **********INTL. CHANNEL**********
 
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg"
@@ -1195,6 +1351,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
